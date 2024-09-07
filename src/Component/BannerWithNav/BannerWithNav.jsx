@@ -1,8 +1,9 @@
+import Navbar from "./Navbar";
 
 const BannerWithNav = () => {
     return (
         <div>
-           <h2>HGiiiiii</h2> 
+           <Navbar ></Navbar>
         </div>
     );
 };

@@ -19,4 +19,4 @@ This project is a **modern, lightweight, and responsive blog site** designed to 
 
 ## Live Link And Figma Link
 
- -- **Under Development**
+ : **Under Development**
