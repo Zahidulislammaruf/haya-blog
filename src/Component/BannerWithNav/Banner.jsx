@@ -11,8 +11,8 @@ const Banner = () => {
   <div>
     <h2 className=" text-[48px] text-center text-white">Our Classroom</h2>
     <label className="input input-bordered flex items-center gap-2">
-  <input type="text" className="grow w-48 md:w-96 " placeholder="Search" />
-  <span className="badge badge-info">Search</span>
+  <input type="text" className="grow w-48 md:w-96 " placeholder="Search Anything" />
+  <span className=" p-1 px-3 bg-blue-500 m-2 rounded text-white font-semibold ">Search</span>
 </label>
 <div className="flex text-white gap-6 mt-4">
   <p>Populer Tags : </p>
