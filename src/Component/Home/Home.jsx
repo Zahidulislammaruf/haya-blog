@@ -10,6 +10,7 @@ const Home = () => {
             <Featured></Featured>
             <Populer></Populer>
             <Recent></Recent>
+            
         </div>
     );
 };
