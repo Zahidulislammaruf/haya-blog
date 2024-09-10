@@ -12,21 +12,35 @@ const Populer = () => {
             </button>
             </div>
             <div>
-            <div className="card bg-base-100 image-full  shadow-xl">
-  <figure>
-    <img
-      src="https://i.ibb.co.com/fG9Qtcr/Image-1.png"
-      alt="Shoes" />
-  </figure>
-  <div className="  opacity-90">
-    <p className="bg-white ">Feature</p>
-    <h2 className="card-title">Shoes!</h2>
-    <p>If a dog chews shoes whose shoes does he choose?</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Buy Now</button>
-    </div>
+            <div className=" text-white bg-cover bg-no-repeat rounded  bg-base-100 image-full  shadow-xl" style={{
+    backgroundImage: "url(https://i.ibb.co.com/W5NkcNp/Image-2.png)",
+  }}>
+
+                 <div className=" p-[5%]">
+                 <p className=" badge bg-white text-[18px] text-green-500  font-semibold">Feature</p>
+                    <div className=" pt-[65%]">
+
+                    <h2 className=" text-[36px] shadow-md font-semibold">How to prevent and protect your family from carbon monoxide</h2>
+                    <div className=" flex justify-between mt-4 lg:mt-12 ">
+        <div className=" flex gap-4">
+        <div className="avatar">
+  <div className="w-14 rounded-full">
+    <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
   </div>
-</div>
+         </div>
+         <div>
+            <h2 className=" text-[20px] font-mono font-semibold">Miss Diana</h2>
+            <h2 className="badge badge-info">Verified</h2>
+         </div>
+        </div>
+        <div>
+            <p className=" font-thin">4:55 PM</p>
+            <p className=" font-thin">02 May</p>
+        </div>
+     </div>
+                    </div> 
+                </div>
+           </div>
             </div>
             
         </div>
