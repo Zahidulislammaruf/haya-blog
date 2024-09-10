@@ -10,7 +10,7 @@ const Recent = () => {
             </button>
             </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 ">
-           <div className=" text-white bg-no-repeat rounded  bg-base-100 image-full  shadow-xl" style={{
+           <div className=" text-white bg-no-repeat rounded  bg-base-100 image-full bg-cover  shadow-xl" style={{
     backgroundImage: "url(https://i.ibb.co.com/NYRrLm5/Base.png)",
   }}>
 
@@ -36,7 +36,7 @@ const Recent = () => {
      </div>
                 </div>
            </div>
-           <div className=" text-white bg-no-repeat rounded  bg-base-100 image-full  shadow-xl" style={{
+           <div className=" text-white bg-cover bg-no-repeat rounded  bg-base-100 image-full  shadow-xl" style={{
     backgroundImage: "url(https://i.ibb.co.com/XCDhmyr/Base-1.png)",
   }}>
 
@@ -62,7 +62,7 @@ const Recent = () => {
      </div>
                 </div>
            </div>
-           <div className=" text-white bg-no-repeat rounded  bg-base-100 image-full  shadow-xl" style={{
+           <div className=" text-white bg-cover bg-no-repeat rounded  bg-base-100 image-full  shadow-xl" style={{
     backgroundImage: "url(https://i.ibb.co.com/vZXfw7B/Base-2.png)",
   }}>
 
