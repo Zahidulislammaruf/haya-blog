@@ -20,7 +20,7 @@ const Populer = () => {
                  <p className=" badge bg-white text-[18px] text-green-500  font-semibold">Feature</p>
                     <div className=" pt-[65%]">
 
-                    <h2 className=" text-[36px] shadow-md font-semibold">How to prevent and protect your family from carbon monoxide</h2>
+                    <h2 className=" text-[32px] shadow-md font-semibold">How to prevent and protect your family from carbon monoxide</h2>
                     <div className=" flex justify-between mt-4 lg:mt-12 ">
         <div className=" flex gap-4">
         <div className="avatar">
@@ -54,11 +54,12 @@ const Populer = () => {
         <div className=" flex gap-4">
         <div className="avatar">
   <div className="w-14 rounded-full">
-    <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+    <img src="https://i.ibb.co.com/TLNPGwF/generative-ai-young-smiling-man-avatar-man-brown-beard-mustache-hair-wearing-yellow-sweater-sweatshi.webp" />
   </div>
          </div>
          <div>
-            <h2 className=" text-[20px] font-mono font-semibold">Miss Diana</h2>
+            <h2 className=" text-[20px] font-mono font-semibold">Tyler Murray
+            </h2>
             <h2 className="badge badge-info">Verified</h2>
          </div>
         </div>
